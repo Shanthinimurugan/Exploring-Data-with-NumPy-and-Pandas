@@ -147,7 +147,7 @@ I would like to thank:
 - **Pandas Documentation** for references and support in understanding Series, DataFrames, filtering, grouping, and data manipulation.
 - **Google Colab** for providing an interactive environment to practice and execute Python code.
 
-e.
+
 
 
 
