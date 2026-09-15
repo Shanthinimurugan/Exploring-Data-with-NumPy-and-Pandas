@@ -2,9 +2,13 @@
 
 ## 📌 Overview
 
-A practical exploration of data analysis using NumPy and Pandas in Python, covering array operations, indexing, slicing, Pandas Series, DataFrames, filtering, grouping, and data manipulation using temperature, student marks, and transaction datasets.
+This project focuses on building a strong foundation in Python-based data analysis using the NumPy and Pandas libraries. It provides hands-on practice with different types of data, including weekly temperature records, student marks, and transaction details.
+
+Through these practical exercises, the project develops essential data-handling skills that are useful for further Exploratory Data Analysis (EDA) and real-world data analytics tasks.
 
 ## 🎯 Objective
+
+The project demonstrates how NumPy can be used to create and analyze numerical arrays, perform calculations, and extract specific data using indexing and slicing. It also explores Pandas Series and DataFrames for working with structured data through selection, filtering, grouping, aggregation, and data manipulation.
 
 To practice fundamental data analysis techniques using **NumPy and Pandas**, including:
 
